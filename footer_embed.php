@@ -45,14 +45,14 @@ include('menu-function.php');
 						<div class="footer__main__group__label"><a href="<?php echo home_url(); ?>/denka-life-innovation-research"><?php echo $menu_list['denka_life_innovation_research']; ?></a></div>
 						<div class="footer__main__group__label"><a href="<?php echo home_url(); ?>/our-global-network"><?php echo $menu_list['global_network']; ?></a></div>
 					</div>
-					<div class="footer__main__group">
+					<div class="footer__main__group"><!--  -->
 						<div class="footer__main__group__label"><a href="<?php echo home_url(); ?>/careers"><?php echo $menu_list['careers']; ?></a></div>
 						<div class="footer__main__group__label"><a href="<?php echo home_url(); ?>/denka-japan"><?php echo $menu_list['denka_japan']; ?></a></div>
 						<div class="footer__main__group__label"><a href="https://denka.com.sg/stage4MA/contact-us"><?php echo $menu_list['contact']; ?></a></div>
 					</div>
 <!-- ----------------------------------------------------------------OVERHERE--------------------------------------------------------------- -->
 					<div class="footer__main__group">
-						
+					<iframe src="http://go.pardot.com/l/1048411/2023-11-24/23cn" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
 					</div>
 <!-- ----------------------------------------------------------------OVERHERE--------------------------------------------------------------- -->
 				</div>
