@@ -18,7 +18,9 @@ include('menu-function.php');
 		<footer class="footer">
 			<div class="footer__content">
 				<div class="footer__label"><a href="<?php echo home_url(); ?>"><?php echo $menu_list['denka-chem-holding-asia-pacific']; ?></a></div>
-				<div class="footer__main">
+				<!-- OVER HERE  -->
+				<div class="footer__main" style="display: flex; justify-content: space-between; gap: 40px; ">
+				<!-- OVER HERE  -->
 					<div class="footer__main__group">
 						<div class="footer__main__group__label"><a href="#"><?php echo $menu_list['about_denka']; ?></a></div>
 						<ul class="footer__main__group__nav">
